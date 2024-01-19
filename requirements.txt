@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Python version
+python>=3.6
+
+# PyTorch
+torch>=2.0.0
+
+# Transformers library
+transformers>=4.0.0
+
+# Tqdm
+tqdm>=4.0.0
