@@ -7,7 +7,6 @@ MLMStego is a steganography method based on the BERT transformer model is propos
 
 ### Prerequisites
 
-- Python
 - PyTorch
 - Transformers
 - Tqdm
