@@ -29,25 +29,25 @@ MLMStego is a steganography method based on the BERT transformer model is propos
 
 Command-line Interface
 
-   ```bash
-    python Test.py \
-        --pathForCoverText "path_to_cover_text_file" \
-        --secret "secret_text" \
-        --language "tr" \
-        --halfWindowSize 10 \
-        --loopChange 2 \
-        --loopMod 3 \
-        --randomSeed 110001 \
-        --saveStegoText True \
-        --printObtainedSecret True \
-        --model "dbmdz/bert-base-turkish-cased" \
-        --device "cuda"  # or "cpu" or "mps" for MacOS
+```bash
+ python Test.py \
+     --pathForCoverText "path_to_cover_text_file" \
+     --secret "secret_text" \
+     --language "tr" \
+     --halfWindowSize 10 \
+     --loopChange 2 \
+     --loopMod 3 \
+     --randomSeed 110001 \
+     --saveStegoText True \
+     --printObtainedSecret True \
+     --model "dbmdz/bert-base-turkish-cased" \
+     --device "cuda"  # or "cpu" or "mps" for MacOS
 ```
 
 Example with minimum arguments
 
 ```bash
-    python Test.py --pathForCoverText cover.txt --secret hiddenmessage
+python Test.py --pathForCoverText cover.txt --secret hiddenmessage
 ```
 
 ### Citations
@@ -65,3 +65,4 @@ If you use this steganography method in your research, please cite the following
   pages={1-1},
   doi={10.1109/ACCESS.2024.3354710}
 }
+```
