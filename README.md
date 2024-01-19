@@ -48,7 +48,6 @@ Minimal Example
 
     ```bash
     python Test.py --pathForCoverText cover.txt --secret hiddenmessage
-```
 
 ### Citations
 
