@@ -54,8 +54,8 @@ Minimal Example
 If you use this steganography method in your research, please cite the following paper:
 
 ```bibtex
-@ARTICLE{10400450,
-  author={Öztürk, Emır and Mesut, Andaç Şahın and Fıdan, Özlem Aydin},
+@ARTICLE{MLMStego,
+  author={Öztürk, Emir and Mesut, Andaç Şahin and Fidan, Özlem Aydın},
   journal={IEEE Access}, 
   title={A character-based steganography using masked language modeling}, 
   year={2024},
