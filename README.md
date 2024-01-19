@@ -32,7 +32,7 @@ Command-line Interface
    ```bash
     python Test.py \
         --pathForCoverText "path_to_cover_text_file" \
-        --secret "your_secret_text" \
+        --secret "secret_text" \
         --language "tr" \
         --halfWindowSize 10 \
         --loopChange 2 \
