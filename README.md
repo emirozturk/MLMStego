@@ -16,12 +16,12 @@ MLMStego is a steganography method based on the BERT transformer model is propos
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bert-steganography.git
+   git clone https://github.com/emirozturk/MLMStego
 
 2. Install the required dependencies:
 
    ```bash
-    cd bert-steganography
+    cd MLMStego
     pip install -r requirements.txt
 
 
