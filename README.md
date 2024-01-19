@@ -46,9 +46,9 @@ Command-line Interface
 
 Minimal Example
 
-    ```bash
+ ```bash
     python Test.py --pathForCoverText cover.txt --secret hiddenmessage
-
+```
 ### Citations
 
 If you use this steganography method in your research, please cite the following paper:
